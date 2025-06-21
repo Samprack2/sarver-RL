@@ -1,3 +1,9 @@
+Did not find any Building data for ./config/ruins_config/mushroom_island, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/mutated_taiga_cold, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/mutated_jungle_edge, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/desert_shrubland, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/biome_parasite, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/birch_forest, creating empty folder for it: success
 
 Loading options from: /workspaces/sarver-RL/servidor_minecraft/world/LOST
 tries_per_chunk_normal = 6

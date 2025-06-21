@@ -1,3 +1,14 @@
 {
-  "nameCache:9": {}
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "thiagito_pro1",
+      "isOP:1": 0,
+      "uuid:8": "174b5527-4101-3403-9c37-dd4bb3e7e6c1"
+    },
+    "1:10": {
+      "name:8": "kaneki46532",
+      "isOP:1": 1,
+      "uuid:8": "2349e40f-6487-3c24-839c-c02f62e90718"
+    }
+  }
 }
